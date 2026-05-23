@@ -3,12 +3,6 @@
 Humans use their facial features or expressions to convey how they feel, such as a person may smile when happy and scowl when angry. Historically, computer vision research has focussed on analyzing and learning these facial features to recognize emotions. 
 However, these facial features are not universal and vary extensively across cultures and situations. 
 
-
-<img src="https://raw.githubusercontent.com/Tandon-A/emotic/master/assets/face.jpg">    <img src="https://raw.githubusercontent.com/Tandon-A/emotic/master/assets/full_scene.jpg" width="400">
-###### Fig 1: a) (Facial feature) The person looks angry or in pain b) (Whole scene) The person looks elated. 
-
-A scene context, as shown in the figure above, can provide additional information about the situations. This project explores the use of context in recognizing emotions in images. 
-
 ## Pipeline 
 
 The project uses the EMOTIC dataset and follows the methodology as introduced in the paper *['Context based emotion recognition using EMOTIC dataset'](https://arxiv.org/pdf/2003.13401.pdf)*.
@@ -92,15 +86,9 @@ _Ronak Kosti, Jose Alvarez, Adria Recasens, Agata Lapedriza_ <br>
 [[Paper]](https://arxiv.org/pdf/2003.13401.pdf) [[Project Webpage]](http://sunai.uoc.edu/emotic/) [[Authors' Implementation]](https://github.com/rkosti/emotic)
 
 ```
-@article{kosti2020context,
-  title={Context based emotion recognition using emotic dataset},
-  author={Kosti, Ronak and Alvarez, Jose M and Recasens, Adria and Lapedriza, Agata},
-  journal={arXiv preprint arXiv:2003.13401},
-  year={2020}
-}
-```
 
 ## Author 
-[Abhishek Tandon](https://github.com/Tandon-A)
+Bhuvan Kambad
+
 
 
