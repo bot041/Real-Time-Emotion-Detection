@@ -76,6 +76,8 @@ The **trained models and thresholds** to use for inference purposes are availble
 ## Results 
 
 <img width="1600" height="899" alt="Bhuvan Trained Output" src="https://github.com/user-attachments/assets/e995f2d0-8df3-4676-904e-ce50f329ee88" />
+<img width="1204" height="1600" alt="abbya" src="https://github.com/user-attachments/assets/199154ef-f635-4c4e-bf75-ca4de9c6af38" />
+
 
 
 ## Acknowledgements
