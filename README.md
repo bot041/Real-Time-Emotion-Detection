@@ -2,6 +2,8 @@
 
 Humans use their facial features or expressions to convey how they feel, such as a person may smile when happy and scowl when angry. Historically, computer vision research has focussed on analyzing and learning these facial features to recognize emotions. 
 However, these facial features are not universal and vary extensively across cultures and situations. 
+<img width="1600" height="899" alt="Bhuvan Trained Output" src="https://github.com/user-attachments/assets/d7e88883-4686-4a36-b280-72db3c156569" />
+
 
 ## Pipeline 
 
